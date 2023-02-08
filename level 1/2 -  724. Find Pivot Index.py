@@ -1,6 +1,6 @@
 
 # My solution (7196 ms)
-# Main learning: Dont repeat the function on each iteration. Assigns to a variable at the beginning
+# Main learning: Dont repeat the function on each iteration. Assigns to a variable aobot the beginning
 class Solution:
 
     def pivotIndex(self, nums: list[int]) -> int:
